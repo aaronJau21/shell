@@ -1,3 +1,12 @@
+line 1
+line 2 
+
+
+
+exit
+exit
+:wq
+:q
 0-current_working_directory
 10-back
 11-lists
@@ -16,4 +25,5 @@
 7-movethatfile
 8-firstdelete
 9-firstdirdeletion
+man.txt
 README.md
