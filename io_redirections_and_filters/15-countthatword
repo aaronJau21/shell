@@ -1,2 +1,2 @@
 #!/bin/bash
-rep -C -i "bin" > /etc/passwd
+rep -c "bin" /etc/passwd
