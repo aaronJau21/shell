@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -empty -printf "%f\%M\n" 
+find . -type f -name "*.gif" -printf "%s\%f\%M\n" | wc -m | sort | 
