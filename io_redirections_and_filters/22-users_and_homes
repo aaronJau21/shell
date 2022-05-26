@@ -1,2 +1,2 @@
 #!/bin/bash
-greap -f /etc/passwd
+cut -f /etc/passwd
