@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | tr -cd "/" | wc -c
+PATH=$PATH:/usr/X11R6/bin
