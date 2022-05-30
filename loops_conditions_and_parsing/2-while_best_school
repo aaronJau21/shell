@@ -3,6 +3,6 @@
 repet = 0
 while [$repet -lt 10]
 do
-	echo "Best School"
-	let repet = $repet+1
+	echo Best School
+	repet=$((repet + 1))
 done 
