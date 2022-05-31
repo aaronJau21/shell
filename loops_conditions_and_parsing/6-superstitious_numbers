@@ -12,6 +12,5 @@ do
 		((i++));;
 	*) echo $i
 		((i++));;
-
 	esac
 done	
