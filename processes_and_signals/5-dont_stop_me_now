@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #This script will display its own PID
-ps aux | grep [4-to_infinity_and_beyond]
+ps aux | pgrep [4-to_infinity_and_beyond]
 kill 4-to_infinit
