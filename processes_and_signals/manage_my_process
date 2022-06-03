@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 #This script will display its own PID
+esta ultima en: my_pro...
+
+
 while :
 do 
-	echo "I am alive!" >> /tmp/my_process
-	sleep 2
-done
+		echo "I am alive!" >> /tmp/my_process
+			sleep 2
+		done
